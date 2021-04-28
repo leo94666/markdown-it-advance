@@ -22,6 +22,5 @@ export default {
       md:md
     }
   },
-
 };
 </script>
